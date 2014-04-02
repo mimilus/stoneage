@@ -1,6 +1,6 @@
 stoneage = {}
 
-local torchdecay = true
+local torchdecay = false
 
 tinder = {
 	"flowers:cotton",
